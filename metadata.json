@@ -1,0 +1,7 @@
+{
+  "name": "DMFirst Rewards Platform",
+  "description": "Global e-commerce task completion and rewards platform with VIP tiers, order grabbing, team commissions, and instant financial management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
